@@ -1,0 +1,260 @@
+C:\Users\10a\source\repos\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.csproj.AssemblyReference.cache
+C:\Users\10a\source\repos\WpfApp17\obj\Debug\net7.0-windows\Windows\MainWindow.g.cs
+C:\Users\10a\source\repos\WpfApp17\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\10a\source\repos\WpfApp17\obj\Debug\net7.0-windows\WpfApp17_MarkupCompile.cache
+C:\Users\10a\source\repos\WpfApp17\obj\Debug\net7.0-windows\WpfApp17_MarkupCompile.lref
+C:\Users\10a\source\repos\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.exe
+C:\Users\10a\source\repos\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.deps.json
+C:\Users\10a\source\repos\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.runtimeconfig.json
+C:\Users\10a\source\repos\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.dll
+C:\Users\10a\source\repos\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.pdb
+C:\Users\10a\source\repos\WpfApp17\obj\Debug\net7.0-windows\Windows\MainWindow.baml
+C:\Users\10a\source\repos\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.g.resources
+C:\Users\10a\source\repos\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10a\source\repos\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.AssemblyInfoInputs.cache
+C:\Users\10a\source\repos\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.AssemblyInfo.cs
+C:\Users\10a\source\repos\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.csproj.CoreCompileInputs.cache
+C:\Users\10a\source\repos\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.dll
+C:\Users\10a\source\repos\WpfApp17\obj\Debug\net7.0-windows\refint\WpfApp17.dll
+C:\Users\10a\source\repos\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.pdb
+C:\Users\10a\source\repos\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.genruntimeconfig.cache
+C:\Users\10a\source\repos\WpfApp17\obj\Debug\net7.0-windows\ref\WpfApp17.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.exe
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.deps.json
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.runtimeconfig.json
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.pdb
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\obj\Debug\net7.0-windows\WpfApp17_MarkupCompile.cache
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\obj\Debug\net7.0-windows\WpfApp17_MarkupCompile.lref
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.g.resources
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.AssemblyInfoInputs.cache
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.AssemblyInfo.cs
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.csproj.CoreCompileInputs.cache
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\obj\Debug\net7.0-windows\refint\WpfApp17.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.pdb
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.genruntimeconfig.cache
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\obj\Debug\net7.0-windows\ref\WpfApp17.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\Castle.Core.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\MySqlConnector.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\bin\Debug\net7.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.csproj.AssemblyReference.cache
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.csproj.Up2Date
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\obj\Debug\net7.0-windows\Windows\AuthWindow.g.cs
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\obj\Debug\net7.0-windows\Windows\RegisterWindow.g.cs
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\obj\Debug\net7.0-windows\Windows\AuthWindow.baml
+C:\Users\FeelKkq\Desktop\Переделать\WpfApp17\obj\Debug\net7.0-windows\Windows\RegisterWindow.baml
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.exe
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.deps.json
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.runtimeconfig.json
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.pdb
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Castle.Core.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\MySqlConnector.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.csproj.AssemblyReference.cache
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Windows\AuthWindow.g.cs
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Windows\RegisterWindow.g.cs
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17_MarkupCompile.cache
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17_MarkupCompile.lref
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Windows\AuthWindow.baml
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Windows\RegisterWindow.baml
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.g.resources
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.AssemblyInfoInputs.cache
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.AssemblyInfo.cs
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.csproj.CoreCompileInputs.cache
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.csproj.Up2Date
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\refint\WpfApp17.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.pdb
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.genruntimeconfig.cache
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\ref\WpfApp17.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Static\Styles.baml
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Windows\CaptchaWindow.g.cs
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Windows\CaptchaWindow.baml
+C:\Users\Feel\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17_Content.g.cs
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.exe
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.deps.json
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.runtimeconfig.json
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.pdb
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Castle.Core.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\MySqlConnector.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.csproj.AssemblyReference.cache
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Static\Styles.baml
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Windows\AuthWindow.g.cs
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Windows\CaptchaWindow.g.cs
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Windows\RegisterWindow.g.cs
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17_Content.g.cs
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17_MarkupCompile.cache
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17_MarkupCompile.lref
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Windows\AuthWindow.baml
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Windows\CaptchaWindow.baml
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Windows\RegisterWindow.baml
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.g.resources
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.AssemblyInfoInputs.cache
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.AssemblyInfo.cs
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.csproj.CoreCompileInputs.cache
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.csproj.Up2Date
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\refint\WpfApp17.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.pdb
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.genruntimeconfig.cache
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\ref\WpfApp17.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.exe
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.deps.json
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.runtimeconfig.json
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.pdb
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Castle.Core.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\MySqlConnector.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.csproj.AssemblyReference.cache
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Static\Styles.baml
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Windows\AuthWindow.g.cs
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Windows\CaptchaWindow.g.cs
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Windows\RegisterWindow.g.cs
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17_Content.g.cs
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17_MarkupCompile.cache
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17_MarkupCompile.lref
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Windows\AuthWindow.baml
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Windows\CaptchaWindow.baml
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Windows\RegisterWindow.baml
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.g.resources
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.AssemblyInfoInputs.cache
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.AssemblyInfo.cs
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.csproj.CoreCompileInputs.cache
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.csproj.CopyComplete
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\refint\WpfApp17.dll
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.pdb
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.genruntimeconfig.cache
+C:\Users\10a\Desktop\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\ref\WpfApp17.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.exe
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.deps.json
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.runtimeconfig.json
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\WpfApp17.pdb
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Castle.Core.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\MySqlConnector.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\bin\Debug\net7.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.csproj.AssemblyReference.cache
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Windows\AuthWindow.g.cs
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Windows\CaptchaWindow.g.cs
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Windows\RegisterWindow.g.cs
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17_MarkupCompile.cache
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17_MarkupCompile.lref
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Windows\AuthWindow.baml
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Windows\CaptchaWindow.baml
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\Windows\RegisterWindow.baml
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.g.resources
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.AssemblyInfoInputs.cache
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.AssemblyInfo.cs
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.csproj.CoreCompileInputs.cache
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.csproj.CopyComplete
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\refint\WpfApp17.dll
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.pdb
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\WpfApp17.genruntimeconfig.cache
+C:\Users\MSI_U\OneDrive\Рабочий стол\Новая папка (2)\WpfApp17\obj\Debug\net7.0-windows\ref\WpfApp17.dll

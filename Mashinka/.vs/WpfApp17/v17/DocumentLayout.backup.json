@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FeelKkq\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\WpfApp17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9614357-3599-449D-8EF4-831331C4230A}|WpfApp17.csproj|c:\\users\\feelkkq\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\wpfapp17\\windows\\captchawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9614357-3599-449D-8EF4-831331C4230A}|WpfApp17.csproj|solutionrelative:windows\\captchawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9614357-3599-449D-8EF4-831331C4230A}|WpfApp17.csproj|c:\\users\\feelkkq\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\wpfapp17\\windows\\authwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9614357-3599-449D-8EF4-831331C4230A}|WpfApp17.csproj|solutionrelative:windows\\authwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2625CF-B32F-4167-89E8-51B758511597}|..\\WebApplication1\\WebApplication1.csproj|c:\\users\\feelkkq\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\webapplication1\\classes\\captchagenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2625CF-B32F-4167-89E8-51B758511597}|..\\WebApplication1\\WebApplication1.csproj|c:\\users\\feelkkq\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\webapplication1\\controller\\captchacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9614357-3599-449D-8EF4-831331C4230A}|WpfApp17.csproj|c:\\users\\feelkkq\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\wpfapp17\\windows\\captchawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9614357-3599-449D-8EF4-831331C4230A}|WpfApp17.csproj|solutionrelative:windows\\captchawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CaptchaGenerate.cs",
+              "DocumentMoniker": "C:\\Users\\FeelKkq\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\WebApplication1\\Classes\\CaptchaGenerate.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication1\\Classes\\CaptchaGenerate.cs",
+              "ToolTip": "C:\\Users\\FeelKkq\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\WebApplication1\\Classes\\CaptchaGenerate.cs",
+              "RelativeToolTip": "..\\WebApplication1\\Classes\\CaptchaGenerate.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:33:00.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CaptchaWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\FeelKkq\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\WpfApp17\\Windows\\CaptchaWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\CaptchaWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\FeelKkq\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\WpfApp17\\Windows\\CaptchaWindow.xaml.cs*",
+              "RelativeToolTip": "Windows\\CaptchaWindow.xaml.cs*",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAUwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:32:33.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CaptchaWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\FeelKkq\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\WpfApp17\\Windows\\CaptchaWindow.xaml",
+              "RelativeDocumentMoniker": "Windows\\CaptchaWindow.xaml",
+              "ToolTip": "C:\\Users\\FeelKkq\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\WpfApp17\\Windows\\CaptchaWindow.xaml",
+              "RelativeToolTip": "Windows\\CaptchaWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-12T00:32:26.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\FeelKkq\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\WpfApp17\\Windows\\AuthWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\AuthWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\FeelKkq\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\WpfApp17\\Windows\\AuthWindow.xaml.cs",
+              "RelativeToolTip": "Windows\\AuthWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:31:54.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CaptchaController.cs",
+              "DocumentMoniker": "C:\\Users\\FeelKkq\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\WebApplication1\\Controller\\CaptchaController.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication1\\Controller\\CaptchaController.cs",
+              "ToolTip": "C:\\Users\\FeelKkq\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\WebApplication1\\Controller\\CaptchaController.cs",
+              "RelativeToolTip": "..\\WebApplication1\\Controller\\CaptchaController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T22:15:56.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

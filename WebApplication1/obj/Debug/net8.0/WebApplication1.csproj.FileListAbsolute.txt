@@ -1,0 +1,141 @@
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+C:\Users\FeelKkq\Desktop\Переделать\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\Feel\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\SixLabors.ImageSharp.Drawing.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\SixLabors.ImageSharp.Drawing.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+C:\Users\FeelKkq\Desktop\Новая папка (2)\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
